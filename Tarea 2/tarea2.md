@@ -35,7 +35,6 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
         1. Al poner filtros hay una forma muy fácil para borrar ese filtro si se puso por error ![Alt text](images/image-9.png)
     * Ejemplos negativos
         1. Mal control de libertad de usuario, ya que al crear una cuenta te ponen por defecto el check en recibir ofertas y promociones ![Alt text](images/image-1.png)
-        2. Al pedir ayuda por el icono inferior derecho (ya que hay dos opciones para pedir ayuda) te dirigue a un error ![Alt text](images/image-7.png)
 
 5. Reconocimiento más que recuerdo
     * Ejemplos positivos
