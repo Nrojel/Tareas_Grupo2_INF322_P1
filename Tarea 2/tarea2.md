@@ -28,7 +28,7 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
     * Ejemplos positivos
         1. Los nombres puestos en  menú son entendibles por todos ![Alt text](images/image-5.png)
     * Ejemplos negativos
-        1. 
+        1. Al haber tantas opciones en el menú el usuario no sabe por donde empezar, en cambio, en el mundo real las opciones son más generalizadas y no tan especificas. El sistema muestra tantas opciones que hay que hacer scroll para ver todo el menú ![Alt text](images/negativo3.png)
 
 4. Control de usuario y libertad
     * Ejemplos positivos
@@ -48,14 +48,17 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
     * Ejemplos positivos
         1. Al apretar ciertos filtros desaparecen las otras opciones que habían para evitar errores de busqueda ![Alt text](images/image-16.png)
     * Ejemplos negativos
-        1. 
+        1. Al escoger filtros de colores no se filtra bien y no hay nada que prevenga ese error ![Alt text](images/negativo6.png.png)
 
 7. Ayuda al usuario en reconocer, diagnosticar y recuperarse del error
     * Ejemplos positivos
+        1. Al ingresar a tu cuenta, si te equivocas en las credenciales te da indicios de que te equivocaste en el email o contraseña ![Alt text](images/positivo7.png)
     * Ejemplos negativos
+        1. Al ingresar al centro de ayuda mostrado en la pagina principal antes del pie de página te cierra la sesión ![Alt text](images/negativo7.png) ![Alt text](images/negativo7_1.png)
 
 8. Flexibilidad y eficiencia de uso
     * Ejemplos positivos
+        1. Hay varios hipervinculos en la página principal que te redirigen a distintos filtros de productos ![Alt text](images/Positivo8.png)
     * Ejemplos negativos
         1. Al querer comprar te obligan a crearte una cuenta y no dan opción de comprar como invitado ![Alt text](images/image-2.png)
 
@@ -67,7 +70,7 @@ Describa brevemente un ejemplo de cumplimiento y uno de incumplimiento de las di
 
 10. Ayuda y documentación
     * Ejemplos positivos
-        1. Hay tres opciones para pedir ayuda ![Alt text](images/image-14.png)
+        1. Hay cuatro opciones para pedir ayuda ![Alt text](images/image-14.png)
     * Ejemplos negativos
         1. La sección de ayuda flotante da soluciones en inglés siendo que la página esta en español ![Alt text](images/image-4.png)
     
