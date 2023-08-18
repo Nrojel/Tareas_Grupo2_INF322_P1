@@ -2,9 +2,9 @@
 
 | Integrantes |   |   |   |   |
 |---|---|---|---|---|
-| Estudiante 1: | Camila Mena |   |   |   |
-| Estudiante 2: | Joaquín Aguilera  |   |   |   |
-| Estudiante 3: | Nicole Rojel  |   |   |   |
+| Estudiante 1: | Camila Mena | 201904155-k  |   |   |
+| Estudiante 2: | Joaquín Aguilera  | 201930003-2  |   |   |
+| Estudiante 3: | Nicole Rojel  | 202073129-2  |   |   |
 
 ## Heuristícas de Nielsen aplicadas a las aplicaciones 
 
